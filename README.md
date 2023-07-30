@@ -27,7 +27,7 @@ Once you have the data file, you can run the `footballai.py` script to train the
 If dataset is needed you can order one from here
 https://www.buymeacoffee.com/CorvusCodex/
 
->Support my work:<br>
+## Support my work & Research:<br>
 >BTC: bc1q7wth254atug2p4v9j3krk9kauc0ehys2u8tgg3<br>
 >ETH & BNB: 0x68B6D33Ad1A3e0aFaDA60d6ADf8594601BE492F0<br>
 >Buy me a coffee: https://www.buymeacoffee.com/CorvusCodex
