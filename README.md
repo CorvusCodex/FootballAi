@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/CorvusCodex/Football-ai-prediction/blob/main/footballai.png?raw=true">
+  <img src="https://github.com/CorvusCodex/Football-ai-prediction/blob/main/footballailogo.png?raw=true">
 </p>
 
 ## FootballAi
