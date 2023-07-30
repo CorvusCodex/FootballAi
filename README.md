@@ -6,6 +6,9 @@
 
 FootballAi is a football prediction artificial intelligence that uses machine learning to predict the winning team of the next football match.
 
+## For people without technical experience you can buy the compiled standalone application for windows from here:
+https://www.buymeacoffee.com/CorvusCodex/e/154775?from_page=extras
+
 ## Installation
 
 To install FootballAi, you will need to have Python 3.x and the following libraries installed:
@@ -23,6 +26,7 @@ You can install these libraries using pip by running the following command:
 To use FootballAi, you will need to have a data file containing past football results. This file should be in a comma-separated format, with each row representing a single match and the numbers, rows are in new line without comma. Team 1 must be on the left and team 2 on the right side.
 
 Once you have the data file, you can run the `footballai.py` script to train the model and generate prediction. The script will print the generated winner to the console.
+
 
 If dataset is needed you can order one from here
 https://www.buymeacoffee.com/CorvusCodex/
